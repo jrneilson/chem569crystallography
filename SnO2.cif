@@ -1,0 +1,56 @@
+
+#======================================================================
+# CRYSTAL DATA
+#----------------------------------------------------------------------
+data_VESTA_phase_1
+
+_chemical_name_common                  'Tin(IV) oxide'
+_cell_length_a                         4.73800(10)
+_cell_length_b                         4.73800(10)
+_cell_length_c                         3.1865(2)
+_cell_angle_alpha                      90.000000
+_cell_angle_beta                       90.000000
+_cell_angle_gamma                      90.000000
+_cell_volume                           71.532603
+_space_group_name_H-M_alt              'P 42/m n m'
+_space_group_IT_number                 136
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+   '-x, -y, -z'
+   '-x, -y, z'
+   'x, y, -z'
+   '-y+1/2, x+1/2, z+1/2'
+   'y+1/2, -x+1/2, -z+1/2'
+   'y+1/2, -x+1/2, z+1/2'
+   '-y+1/2, x+1/2, -z+1/2'
+   '-x+1/2, y+1/2, -z+1/2'
+   'x+1/2, -y+1/2, z+1/2'
+   'x+1/2, -y+1/2, -z+1/2'
+   '-x+1/2, y+1/2, z+1/2'
+   'y, x, -z'
+   '-y, -x, z'
+   '-y, -x, -z'
+   'y, x, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_B_iso_or_equiv
+   _atom_site_type_symbol
+   Sn1        1.0     0.000000     0.000000     0.000000    Biso  ? Sn
+   O1         1.0     0.3071(13)   0.3071(13)   0.000000    Biso  ? O
+
+loop_
+   _atom_site_aniso_label
+   _atom_site_aniso_U_11
+   _atom_site_aniso_U_22
+   _atom_site_aniso_U_33
+   _atom_site_aniso_U_12
+   _atom_site_aniso_U_13
+   _atom_site_aniso_U_23

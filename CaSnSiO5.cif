@@ -1,0 +1,43 @@
+
+#======================================================================
+# CRYSTAL DATA
+#----------------------------------------------------------------------
+data_VESTA_phase_1
+
+_chemical_name_common                  'Calcium tin(IV) oxide silicate'
+_cell_length_a                         7.1523(4)
+_cell_length_b                         8.8902(5)
+_cell_length_c                         6.6677(9)
+_cell_angle_alpha                      90.000000
+_cell_angle_beta                       113.362(7)
+_cell_angle_gamma                      90.000000
+_cell_volume                           389.210352
+_space_group_name_H-M_alt              'A 2/a'
+_space_group_IT_number                 15
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+   '-x, -y, -z'
+   '-x+1/2, y, -z'
+   'x+1/2, -y, z'
+   'x, y+1/2, z+1/2'
+   '-x, -y+1/2, -z+1/2'
+   '-x+1/2, y+1/2, -z+1/2'
+   'x+1/2, -y+1/2, z+1/2'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_U_iso_or_equiv
+   _atom_site_type_symbol
+   Ca1        1.0     0.250000     0.6628(5)    0.500000    Uiso  0.025000 Ca
+   Sn1        1.0     0.500000     0.500000     0.000000    Uiso  0.009000 Sn
+   Si1        1.0     0.750000     0.6815(5)    0.500000    Uiso  0.010700 Si
+   O1         1.0     0.750000     0.5870(10)   0.000000    Uiso  0.010000 O
+   O2         1.0     0.9147(9)    0.5679(8)    0.6760(10)  Uiso  0.010000 O
+   O3         1.0     0.370(2)     0.7116(9)    0.888(4)    Uiso  0.010000 O
