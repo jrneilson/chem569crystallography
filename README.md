@@ -24,7 +24,7 @@ Here are the samples:
 
 A "Mason Stain" powder used for glazing ceramics (6006 Deep Crimson; aka Chrome Tin Pink Sphene).  `Mason_Stain_6006_10-120_1secperstep_spin_antiscat_NiFilt_070725.brml` 
 
-Data were collected in Bragg-Brentano geometry.  In instrument parameters are defined within `D8DaVinci_20261020.instprm` for setting up the quantitative analyses in gsas-II.  The Mason Stain, LaB<sub>6</sub>, and Al<sub>2</sub>O<sub>3</sub> data were collected with a Ni filter in front to the detector to block a contaminating X-ray wavelength from tungsten.  
+Data were collected in Bragg-Brentano geometry.  In instrument parameters are defined within `D8DaVinci_20261020.instprm` for setting up the quantitative analyses in gsas-II. This was determined using the LaB<sub>6</sub> data provided.   The Mason Stain, LaB<sub>6</sub>, and Al<sub>2</sub>O<sub>3</sub> data were collected with a Ni filter in front to the detector to block a contaminating X-ray wavelength from tungsten.  
 
 We will use the various `cif` files as structural models for our analysis.  
 
